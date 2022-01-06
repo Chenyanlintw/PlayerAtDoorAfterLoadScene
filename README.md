@@ -1,2 +1,3 @@
-# PlayerAtDoorAfterLoadScene
- 
+# 載入場景時將角色放在對應門前
+
+示範在角色進入門之後切換場景，並站在對應的門前。
